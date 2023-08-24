@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing a mobile app. 
+I'm currently a student studying Software Engineering. 
 
 
 # 💻 Tech Stack:
